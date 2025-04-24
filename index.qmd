@@ -1,0 +1,12 @@
+---
+pagetitle: "OJALAB"
+title: "OJALAB: Online job advertisements to study skill demand and job search patterns"
+toc: false
+---
+
+::: {.lead}
+
+This is the page for the project **Online job advertisements to study skill demand and job search patterns** financed by the [National Science Centre](https://www.ncn.gov.pl/en), OPUS 20 grant no. 2024/53/B/HS4/01580.
+
+
+:::
