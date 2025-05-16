@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ojalab.ue.poznan.pl/index.html</loc>
-    <lastmod>2025-05-16T06:40:21.020Z</lastmod>
+    <loc>https://ojalab.ue.poznan.pl/contact.html</loc>
+    <lastmod>2025-05-16T06:48:23.252Z</lastmod>
   </url>
   <url>
-    <loc>https://ojalab.ue.poznan.pl/contact.html</loc>
-    <lastmod>2025-05-16T06:40:21.020Z</lastmod>
+    <loc>https://ojalab.ue.poznan.pl/about.html</loc>
+    <lastmod>2025-05-16T06:48:23.251Z</lastmod>
   </url>
   <url>
     <loc>https://ojalab.ue.poznan.pl/readme.html</loc>
-    <lastmod>2025-05-16T06:40:21.020Z</lastmod>
+    <lastmod>2025-05-16T06:48:23.252Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ojalab.ue.poznan.pl/index.html</loc>
+    <lastmod>2025-05-16T06:48:23.252Z</lastmod>
   </url>
 </urlset>
