@@ -7,12 +7,14 @@ website:
     left:
       - href: index.qmd
         text: Home
+    right:
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:
     theme: flatly
     css: styles.css
     toc: true
-
 
 
