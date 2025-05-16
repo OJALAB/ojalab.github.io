@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/news.html",
+    "items": [
+      "/news/2025-06-16-init/index.html"
+    ]
+  },
+  {
     "listing": "/people.html",
     "items": [
       "/people/staff/pater.html",
@@ -12,12 +18,6 @@
     "listing": "/publications.html",
     "items": [
       "/publications/articles/2025-beresewicz-jos.html"
-    ]
-  },
-  {
-    "listing": "/news.html",
-    "items": [
-      "/news/2025-06-16-init/index.html"
     ]
   }
 ]
