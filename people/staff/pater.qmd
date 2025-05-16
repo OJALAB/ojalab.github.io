@@ -11,7 +11,7 @@ about:
   template: jolla
   links: 
     - text: orcid
-      href: https://orcid.org/0000-0002-3052-3211
+      href: https://orcid.org/0000-0001-7619-9843
     - icon: mortarboard
       text: scholar
       href: https://scholar.google.pl/citations?user=11utvycAAAAJ
