@@ -1,0 +1,19 @@
+---
+title: "Ewa Gałecka-Burdziak"
+sortby: "3"
+subtitle: "Research Staff"
+image: galecka.jpeg
+started: "Spring 2025"
+toc: false
+resources: ""
+about:
+  id: person-profile
+  template: jolla
+  links: 
+    - text: orcid
+      href: https://orcid.org/0000-0001-9020-8486
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.pl/citations?hl=pl&user=lgADkJQAAAAJ
+---
+

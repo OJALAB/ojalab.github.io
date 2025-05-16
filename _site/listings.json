@@ -1,9 +1,7 @@
 [
   {
-    "listing": "/people.html",
-    "items": [
-      "/people/staff/beresewicz.html"
-    ]
+    "listing": "/publications.html",
+    "items": []
   },
   {
     "listing": "/news.html",
@@ -12,7 +10,12 @@
     ]
   },
   {
-    "listing": "/publications.html",
-    "items": []
+    "listing": "/people.html",
+    "items": [
+      "/people/staff/pater.html",
+      "/people/staff/beresewicz.html",
+      "/people/staff/galecka.html",
+      "/people/staff/cherniaiev.html"
+    ]
   }
 ]

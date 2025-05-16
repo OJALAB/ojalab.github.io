@@ -1,0 +1,19 @@
+---
+title: "Robert Pater"
+sortby: "1"
+subtitle: "Principal Investigator"
+image: pater.jpeg
+started: "Spring 2025"
+toc: false
+resources: ""
+about:
+  id: person-profile
+  template: jolla
+  links: 
+    - text: orcid
+      href: https://orcid.org/0000-0002-3052-3211
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.pl/citations?user=11utvycAAAAJ
+---
+

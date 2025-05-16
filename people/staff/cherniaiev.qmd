@@ -1,0 +1,19 @@
+---
+title: "Herman Cherniaiev"
+sortby: "4"
+subtitle: "Research Staff"
+image: cherniaiev.jpeg
+started: "Spring 2025"
+toc: false
+resources: ""
+about:
+  id: person-profile
+  template: jolla
+  links: 
+    - text: orcid
+      href: http://orcid.org/0000-0001-9286-6490
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.com/citations?user=YgAyP6sAAAAJ
+---
+
