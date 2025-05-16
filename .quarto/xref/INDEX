@@ -1,14 +1,32 @@
 {
-  "index.qmd": {
-    "index.html": "f75ab9a8"
+  "contact.qmd": {
+    "contact.html": "79c63371"
   },
-  "about.qmd": {
-    "about.html": "b100cc69"
+  "news.qmd": {
+    "news.html": "08bb0aa0"
+  },
+  "index.qmd": {
+    "index.html": "ca0d1d08"
   },
   "readme.md": {
-    "readme.html": "105ff47a"
+    "readme.html": "ea92b838"
   },
-  "contact.qmd": {
-    "contact.html": "55b95292"
+  "publications.qmd": {
+    "publications.html": "62094a57"
+  },
+  "about.qmd": {
+    "about.html": "da2c91d2"
+  },
+  "people.qmd": {
+    "people.html": "a6a85792"
+  },
+  "opportunities.qmd": {
+    "opportunities.html": "0f083b37"
+  },
+  "news/2025-06-16-init/index.qmd": {
+    "index.html": "9aa55497"
+  },
+  "people/staff/beresewicz.qmd": {
+    "beresewicz.html": "738b1f8f"
   }
 }

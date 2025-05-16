@@ -1,0 +1,15 @@
+---
+title: "OJALAB website"
+description: "Kick-off of the project web page"
+author: "Maciej Beręsewicz"
+date: "2025-06-16"
+draft: false
+categories:
+  - info
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+So the web page of the project just went online. 

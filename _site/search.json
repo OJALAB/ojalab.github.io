@@ -1,5 +1,54 @@
 [
   {
+    "objectID": "opportunities.html#for-undergraduate-students",
+    "href": "opportunities.html#for-undergraduate-students",
+    "title": "OJALAB",
+    "section": "For Undergraduate Students",
+    "text": "For Undergraduate Students"
+  },
+  {
+    "objectID": "opportunities.html#for-graduate-students",
+    "href": "opportunities.html#for-graduate-students",
+    "title": "OJALAB",
+    "section": "For Graduate Students",
+    "text": "For Graduate Students"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "OJALAB",
+    "section": "",
+    "text": "Co-Principal Investigator\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#research-staff",
+    "href": "people.html#research-staff",
+    "title": "OJALAB",
+    "section": "",
+    "text": "Co-Principal Investigator\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#students",
+    "href": "people.html#students",
+    "title": "OJALAB",
+    "section": "Students",
+    "text": "Students\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#reseach-consultants",
+    "href": "people.html#reseach-consultants",
+    "title": "OJALAB",
+    "section": "Reseach consultants",
+    "text": "Reseach consultants\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#alumni",
+    "href": "people.html#alumni",
+    "title": "OJALAB",
+    "section": "Alumni",
+    "text": "Alumni\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Name\n        \n         \n          Role\n        \n         \n          Started\n        \n         \n          Ended\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nName\n\n\nRole\n\n\nStarted\n\n\nEnded\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "OJALAB",
@@ -21,11 +70,18 @@
     "text": "Research Plan\n\nEnglishPolish\n\n\n\nWeb-scraping and statistical analysis of data used in the project\nDeveloping new methods to assess quality of online data\nDeveloping new methods for estimation of the number of job vacancies\nDeveloping new data integration methods for non-probability samples with mis-classification\nEstimation of the quality of non-random sources (admin and online data)\nEstimation of the number of job vacancies (total and sub-populations)\nEstimation of demand for skills and competencies based on admin and online data\nDescriptive and economic analysis based on estimated data\nAnalysis and modelling skills over time\nAnalysis of structural developments of the labour market in relation to the COVID-19 pandemic and war in Ukraine\nEstimation of skill matching using admin and online unit-level data under mis-classification\n\n\n\n\nWeb-scraping i analiza statystyczna danych wykorzystywanych w projekcie\nOpracowanie nowych metod oceny jakości danych online\nOpracowanie nowych metod szacowania liczby wolnych miejsc pracy\nOpracowanie nowych metod estymacji z wykorzystaniem prób nieprobabilistycznych uwzględniających błąd klasyfikacji\nEstymacja wskaźników jakości dla prób nieprobabilistycznych\nOszacowanie liczby wolnych miejsc pracy (ogółem i w wybranych przekrojach)\nOszacowanie popytu na umiejętności i kompetencje na podstawie danych administracyjnych i online\nAnaliza opisowa i ekonomiczna uzyskanych danych\nAnaliza i modelowanie umiejętności w czasie\nAnaliza zmian strukturalnych na rynku pracy w relacji do pandemii COVID-19 i wojny w Ukrainie\nOszacowanie mechanizmu dopasowań pod względem umiejętności na rynku pracy przy wykorzystaniu danych jednostkowych adresując problemy błędów klasyfikacji"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "OJALAB: Online job advertisements to study skill demand and job search patterns",
+    "objectID": "readme.html",
+    "href": "readme.html",
+    "title": "About",
     "section": "",
-    "text": "This is the page for the project Online job advertisements to study skill demand and job search patterns financed by the National Science Centre, OPUS 27 grant no. 2024/53/B/HS4/01580.\n\nEnglishPolish\n\n\nThis project aims to develop innovative statistical methods for accurately measuring labor demand by integrating survey data, online job advertisements, and administrative records to address non-representativeness bias in big data sources and provide unprecedented insights into skills demand, contract types, and evolving work arrangements. By leveraging data spanning the COVID-19 pandemic and Ukrainian migration, the research seeks to analyze structural changes in Poland’s labor market and deliver new methodological frameworks that will enhance official statistics and inform evidence-based labor market policies.\n\n\nProjekt ma na celu opracowanie innowacyjnych metod statystycznych do dokładnego pomiaru popytu na pracę poprzez integrację danych z badań reprezentacyjnych, internetowych ogłoszeń o pracę i rejestrów administracyjnych. Celem badań jest skorygowanie obciążeń wynikających z problemów niereprezentatywności występujących w dużych zbiorach danych oraz dostarczenie nowych informacji na temat popytu na umiejętności i zmieniających się form zatrudnienia. Analiza danych obejmujących okres pandemii COVID-19 i napływu uchodźców z Ukrainy ma na celu zbadanie zmian strukturalnych na polskim rynku pracy oraz opracowanie nowych ram metodologicznych, które wzmocnią statystykę oficjalną i dostarczą informacji dla polityk rynku pracy opartych na dowodach."
+    "text": "About\nRepository for the https://www.ojalab.ue.poznan.pl website"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "OJALAB",
+    "section": "",
+    "text": "OJALAB website\n\n\n\n\n\n\ninfo\n\n\n\nKick-off of the project web page\n\n\n\n\n\nJun 16, 2025\n\n\nMaciej Beręsewicz\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "contact.html",
@@ -35,10 +91,24 @@
     "text": "dr hab. Robert Pater, prof. WSIiZ  Department of Economics and Finance  University of Information Technology and Management in Rzeszow  35-225 Rzeszów, ul. Sucharskiego 2  tel. +48 17-86-61-134 | rpater[at]wsiz.edu.pl  https://www.wsiz.edu.pl/ \ndr Maciej Beręsewicz, prof. UEP  Department of Statistics  Poznań University of Economics and Business  al. Niepodległości 10 | 61-875 Poznań  tel. +48 61-854-36-80 | maciej.beresewicz[at]ue.poznan.pl  https://www.ue.poznan.pl"
   },
   {
-    "objectID": "readme.html",
-    "href": "readme.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "OJALAB: Online job advertisements to study skill demand and job search patterns",
     "section": "",
-    "text": "About\nRepository for the https://www.ojalab.ue.poznan.pl website"
+    "text": "This is the page for the project Online job advertisements to study skill demand and job search patterns financed by the National Science Centre, OPUS 27 grant no. 2024/53/B/HS4/01580.\n\nEnglishPolish\n\n\nThis project aims to develop innovative statistical methods for accurately measuring labor demand by integrating survey data, online job advertisements, and administrative records to address non-representativeness bias in big data sources and provide unprecedented insights into skills demand, contract types, and evolving work arrangements. By leveraging data spanning the COVID-19 pandemic and Ukrainian migration, the research seeks to analyze structural changes in Poland’s labor market and deliver new methodological frameworks that will enhance official statistics and inform evidence-based labor market policies.\n\n\nProjekt ma na celu opracowanie innowacyjnych metod statystycznych do dokładnego pomiaru popytu na pracę poprzez integrację danych z badań reprezentacyjnych, internetowych ogłoszeń o pracę i rejestrów administracyjnych. Celem badań jest skorygowanie obciążeń wynikających z problemów niereprezentatywności występujących w dużych zbiorach danych oraz dostarczenie nowych informacji na temat popytu na umiejętności i zmieniających się form zatrudnienia. Analiza danych obejmujących okres pandemii COVID-19 i napływu uchodźców z Ukrainy ma na celu zbadanie zmian strukturalnych na polskim rynku pracy oraz opracowanie nowych ram metodologicznych, które wzmocnią statystykę oficjalną i dostarczą informacji dla polityk rynku pracy opartych na dowodach."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "OJALAB",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "news/2025-06-16-init/index.html",
+    "href": "news/2025-06-16-init/index.html",
+    "title": "OJALAB website",
+    "section": "",
+    "text": "So the web page of the project just went online."
   }
 ]

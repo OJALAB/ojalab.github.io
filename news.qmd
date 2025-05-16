@@ -1,0 +1,10 @@
+---
+pagetitle: "News | OJALAB"
+toc: false
+listing:
+  contents: "news/**/index.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+---
+

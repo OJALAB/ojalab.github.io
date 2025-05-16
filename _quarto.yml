@@ -9,6 +9,15 @@ website:
         text: Home
       - href: about.qmd
         text: About
+      - href: news.qmd
+        text: News
+      - href: opportunities.qmd
+        text: Opportunities
+      - href: people.qmd
+        text: People
+      - href: publications.qmd
+        text: Publications
+
     right:
       - href: contact.qmd
         text: Contact
