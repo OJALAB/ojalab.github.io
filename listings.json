@@ -1,21 +1,23 @@
 [
   {
-    "listing": "/news.html",
-    "items": [
-      "/news/2025-06-16-init/index.html"
-    ]
-  },
-  {
-    "listing": "/publications.html",
-    "items": []
-  },
-  {
     "listing": "/people.html",
     "items": [
       "/people/staff/pater.html",
       "/people/staff/beresewicz.html",
       "/people/staff/galecka.html",
       "/people/staff/cherniaiev.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/articles/2025-beresewicz-jos.html"
+    ]
+  },
+  {
+    "listing": "/news.html",
+    "items": [
+      "/news/2025-06-16-init/index.html"
     ]
   }
 ]

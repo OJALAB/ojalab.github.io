@@ -79,7 +79,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: [{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-project','listing-website','listing-format','listing-language','listing-title','listing-type','listing-author','listing-year','listing-publication','listing-preprint','listing-materials','listing-toc','listing-categories','listing-path','listing-outputHref','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] }],
       
       searchColumns: ["listing-title","listing-author","listing-publication","listing-year"],
     };
@@ -191,7 +191,7 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="YXJ0aWNsZQ==">article <span class="quarto-category-count">(1)</span></div><div class="category" data-category="cHJlcHJpbnQ=">preprint <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
@@ -200,12 +200,52 @@ window.Quarto = {
 
 <div id="listing-articles" class="quarto-listing quarto-listing-container-custom">
 <div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-articles-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-articles'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Order By</option>
+      <option value="index" data-direction="asc">Default</option>
+      <option value="listing-title" data-direction="asc">
+        Title
+      </option>
+      <option value="listing-author" data-direction="asc">
+        Author
+      </option>
+      <option value="listing-publication" data-direction="asc">
+        Publication
+      </option>
+      <option value="listing-year" data-direction="asc">
+        Year
+      </option>
+    </select>
+  </div>
     <div class="input-group input-group-sm quarto-listing-filter">
       <span class="input-group-text"><i class="bi bi-search"></i></span>
       <input type="text" class="search form-control" placeholder="Filter">
     </div>
 </div>
 <ul class="pub-list list">
+
+  <li data-index="0" data-categories="YXJ0aWNsZSUyQ3ByZXByaW50" data-listing-file-modified-sort="1747407291306" data-listing-reading-time-sort="2" data-listing-word-count-sort="290">
+    <span class="listing-title lead">Multilingual hierarchical classification of job advertisements for job vacancy statistics</span><br>
+    <span class="listing-author">Beręsewicz, Wydmuch, Cherniaiev and Pater</span><br>
+    <span class="listing-publication fst-italic ">Submitted to Journal of Official Statistics</span>
+    <span class="listing-year">(2025)</span><br>
+    <a href="./publications/articles/2025-beresewicz-jos.html" class="btn btn-primary">
+      Details
+    </a>
+    
+    
+    <a href="https://arxiv.org/abs/2411.03779" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-text"></i> Preprint
+    </a>
+    
+    
+    <a href="https://github.com/OJALAB/paper-job-ads-classifier" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+      <i class="bi bi-file-earmark-zip"></i> Materials
+    </a>
+    
+  </li>
 
 </ul>
 
