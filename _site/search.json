@@ -25,7 +25,7 @@
     "href": "publications.html",
     "title": "OJALAB",
     "section": "",
-    "text": "No matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Publication\n        \n         \n          Year\n        \n     \n  \n    \n      \n      \n    \n\n\n\n  \n    Multilingual hierarchical classification of job advertisements for job vacancy statistics\n    Beręsewicz, Wydmuch, Cherniaiev and Pater\n    Submitted to Journal of Official Statistics\n    (2025)\n    \n      Details\n    \n    \n    \n    \n       Preprint\n    \n    \n    \n    \n       Materials\n    \n    \n  \n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -33,6 +33,34 @@
     "title": "OJALAB: Online job advertisements to study skill demand and job search patterns",
     "section": "",
     "text": "This is the page for the project Online job advertisements to study skill demand and job search patterns financed by the National Science Centre, OPUS 27 grant no. 2024/53/B/HS4/01580.\n\nEnglishPolish\n\n\nThis project aims to develop innovative statistical methods for accurately measuring labor demand by integrating survey data, online job advertisements, and administrative records to address non-representativeness bias in big data sources and provide unprecedented insights into skills demand, contract types, and evolving work arrangements. By leveraging data spanning the COVID-19 pandemic and Ukrainian migration, the research seeks to analyze structural changes in Poland’s labor market and deliver new methodological frameworks that will enhance official statistics and inform evidence-based labor market policies.\n\n\nProjekt ma na celu opracowanie innowacyjnych metod statystycznych do dokładnego pomiaru popytu na pracę poprzez integrację danych z badań reprezentacyjnych, internetowych ogłoszeń o pracę i rejestrów administracyjnych. Celem badań jest skorygowanie obciążeń wynikających z problemów niereprezentatywności występujących w dużych zbiorach danych oraz dostarczenie nowych informacji na temat popytu na umiejętności i zmieniających się form zatrudnienia. Analiza danych obejmujących okres pandemii COVID-19 i napływu uchodźców z Ukrainy ma na celu zbadanie zmian strukturalnych na polskim rynku pracy oraz opracowanie nowych ram metodologicznych, które wzmocnią statystykę oficjalną i dostarczą informacji dla polityk rynku pracy opartych na dowodach."
+  },
+  {
+    "objectID": "publications/articles/2025-beresewicz-jos.html",
+    "href": "publications/articles/2025-beresewicz-jos.html",
+    "title": "Multilingual hierarchical classification of job advertisements for job vacancy statistics",
+    "section": "",
+    "text": "The goal of this paper is to develop a multilingual classifier and conditional probability estimator of occupation codes for online job advertisements according in accordance with the International Standard Classification of Occupations (ISCO) extended with the Polish Classification of Occupations and Specializations (KZiS), which is analogous to the European Classification of Occupations. In this paper, we utilise a range of data sources, including a novel one, namely the Central Job Offers Database, which is a register of all vacancies submitted to Public Employment Offices. Their staff members code the vacancies according to the ISCO and KZiS. A hierarchical multi-class classifier has been developed based on the transformer architecture. The classifier begins by encoding the jobs found in advertisements to the widest 1-digit occupational group, and then narrows the assignment to a 6-digit occupation code. We show that incorporation of the hierarchical structure of occupations improves prediction accuracy by 1-2 percentage points, particularly for the hand-coded online job advertisements. Finally, a bilingual (Polish and English) and multilingual (24 languages) model is developed based on data translated using closed and open-source software. The open-source software is provided for the benefit of the official statistics community, with a particular focus on international comparability."
+  },
+  {
+    "objectID": "publications/articles/2025-beresewicz-jos.html#abstract",
+    "href": "publications/articles/2025-beresewicz-jos.html#abstract",
+    "title": "Multilingual hierarchical classification of job advertisements for job vacancy statistics",
+    "section": "",
+    "text": "The goal of this paper is to develop a multilingual classifier and conditional probability estimator of occupation codes for online job advertisements according in accordance with the International Standard Classification of Occupations (ISCO) extended with the Polish Classification of Occupations and Specializations (KZiS), which is analogous to the European Classification of Occupations. In this paper, we utilise a range of data sources, including a novel one, namely the Central Job Offers Database, which is a register of all vacancies submitted to Public Employment Offices. Their staff members code the vacancies according to the ISCO and KZiS. A hierarchical multi-class classifier has been developed based on the transformer architecture. The classifier begins by encoding the jobs found in advertisements to the widest 1-digit occupational group, and then narrows the assignment to a 6-digit occupation code. We show that incorporation of the hierarchical structure of occupations improves prediction accuracy by 1-2 percentage points, particularly for the hand-coded online job advertisements. Finally, a bilingual (Polish and English) and multilingual (24 languages) model is developed based on data translated using closed and open-source software. The open-source software is provided for the benefit of the official statistics community, with a particular focus on international comparability."
+  },
+  {
+    "objectID": "publications/articles/2025-beresewicz-jos.html#citation",
+    "href": "publications/articles/2025-beresewicz-jos.html#citation",
+    "title": "Multilingual hierarchical classification of job advertisements for job vacancy statistics",
+    "section": "Citation",
+    "text": "Citation\n\nBeręsewicz, M., Wydmuch, M., Cherniaiev, H., & Pater, R. (2024). Multilingual hierarchical classification of job advertisements for job vacancy statistics. arXiv. https://arxiv.org/abs/2411.03779"
+  },
+  {
+    "objectID": "publications/articles/2025-beresewicz-jos.html#bibtex",
+    "href": "publications/articles/2025-beresewicz-jos.html#bibtex",
+    "title": "Multilingual hierarchical classification of job advertisements for job vacancy statistics",
+    "section": "BibTeX",
+    "text": "BibTeX\n@misc{beresewicz2024multi,\n      title={Multilingual hierarchical classification of job advertisements for job vacancy statistics}, \n      author={Maciej Beręsewicz and Marek Wydmuch and Herman Cherniaiev and Robert Pater},\n      year={2024},\n      eprint={2411.03779},\n      archivePrefix={arXiv},\n      primaryClass={stat.AP},\n      url={https://arxiv.org/abs/2411.03779}, \n}"
   },
   {
     "objectID": "contact.html",

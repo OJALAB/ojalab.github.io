@@ -1,0 +1,37 @@
+---
+title: "Multilingual hierarchical classification of job advertisements for job vacancy statistics"
+type: "article"
+author: "Beręsewicz, Wydmuch, Cherniaiev and Pater"
+year: "2025"
+publication: "Submitted to Journal of Official Statistics"
+preprint: "https://arxiv.org/abs/2411.03779"
+materials: "https://github.com/OJALAB/paper-job-ads-classifier"
+toc: false
+categories:
+  - article
+  - preprint
+---
+
+## Abstract
+
+The goal of this paper is to develop a multilingual classifier and conditional probability estimator of occupation codes for online job advertisements according in accordance with the International Standard Classification of Occupations (ISCO) extended with the Polish Classification of Occupations and Specializations (KZiS), which is analogous to the European Classification of Occupations. In this paper, we utilise a range of data sources, including a novel one, namely the Central Job Offers Database, which is a register of all vacancies submitted to Public Employment Offices. Their staff members code the vacancies according to the ISCO and KZiS. A hierarchical multi-class classifier has been developed based on the transformer architecture. The classifier begins by encoding the jobs found in advertisements to the widest 1-digit occupational group, and then narrows the assignment to a 6-digit occupation code. We show that incorporation of the hierarchical structure of occupations improves prediction accuracy by 1-2 percentage points, particularly for the hand-coded online job advertisements. Finally, a bilingual (Polish and English) and multilingual (24 languages) model is developed based on data translated using closed and open-source software. The open-source software is provided for the benefit of the official statistics community, with a particular focus on international comparability.
+
+## Citation
+
+> Beręsewicz, M., Wydmuch, M., Cherniaiev, H., & Pater, R. (2024). 
+> Multilingual hierarchical classification of job advertisements for job vacancy statistics. 
+> arXiv. https://arxiv.org/abs/2411.03779
+
+## BibTeX
+
+``` tex
+@misc{beresewicz2024multi,
+      title={Multilingual hierarchical classification of job advertisements for job vacancy statistics}, 
+      author={Maciej Beręsewicz and Marek Wydmuch and Herman Cherniaiev and Robert Pater},
+      year={2024},
+      eprint={2411.03779},
+      archivePrefix={arXiv},
+      primaryClass={stat.AP},
+      url={https://arxiv.org/abs/2411.03779}, 
+}
+```
