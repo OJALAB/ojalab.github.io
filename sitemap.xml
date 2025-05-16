@@ -1,43 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ojalab.ue.poznan.pl/news/2025-06-16-init/index.html</loc>
-    <lastmod>2025-05-16T14:32:55.201Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ojalab.ue.poznan.pl/contact.html</loc>
-    <lastmod>2025-05-16T14:32:55.200Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ojalab.ue.poznan.pl/publications.html</loc>
-    <lastmod>2025-05-16T14:32:55.203Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ojalab.ue.poznan.pl/about.html</loc>
-    <lastmod>2025-05-16T14:32:55.200Z</lastmod>
+    <loc>https://ojalab.ue.poznan.pl/people/staff/pater.html</loc>
+    <lastmod>2025-05-16T14:45:31.152Z</lastmod>
   </url>
   <url>
     <loc>https://ojalab.ue.poznan.pl/people/staff/beresewicz.html</loc>
-    <lastmod>2025-05-16T14:32:55.203Z</lastmod>
+    <lastmod>2025-05-16T14:45:31.152Z</lastmod>
   </url>
   <url>
-    <loc>https://ojalab.ue.poznan.pl/people.html</loc>
-    <lastmod>2025-05-16T14:32:55.201Z</lastmod>
+    <loc>https://ojalab.ue.poznan.pl/news/2025-06-16-init/index.html</loc>
+    <lastmod>2025-05-16T14:45:31.150Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ojalab.ue.poznan.pl/about.html</loc>
+    <lastmod>2025-05-16T14:45:31.149Z</lastmod>
   </url>
   <url>
     <loc>https://ojalab.ue.poznan.pl/readme.html</loc>
-    <lastmod>2025-05-16T14:32:55.203Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ojalab.ue.poznan.pl/opportunities.html</loc>
-    <lastmod>2025-05-16T14:32:55.201Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ojalab.ue.poznan.pl/index.html</loc>
-    <lastmod>2025-05-16T14:32:55.201Z</lastmod>
+    <lastmod>2025-05-16T14:45:31.152Z</lastmod>
   </url>
   <url>
     <loc>https://ojalab.ue.poznan.pl/news.html</loc>
-    <lastmod>2025-05-16T14:32:55.201Z</lastmod>
+    <lastmod>2025-05-16T14:45:31.150Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ojalab.ue.poznan.pl/contact.html</loc>
+    <lastmod>2025-05-16T14:45:31.149Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ojalab.ue.poznan.pl/opportunities.html</loc>
+    <lastmod>2025-05-16T14:45:31.150Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ojalab.ue.poznan.pl/publications.html</loc>
+    <lastmod>2025-05-16T14:45:31.152Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ojalab.ue.poznan.pl/people.html</loc>
+    <lastmod>2025-05-16T14:45:31.150Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ojalab.ue.poznan.pl/index.html</loc>
+    <lastmod>2025-05-16T14:45:31.150Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ojalab.ue.poznan.pl/people/staff/cherniaiev.html</loc>
+    <lastmod>2025-05-16T14:45:31.152Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ojalab.ue.poznan.pl/people/staff/galecka.html</loc>
+    <lastmod>2025-05-16T14:45:31.152Z</lastmod>
   </url>
 </urlset>
