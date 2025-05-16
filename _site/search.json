@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "OJALAB: Online job advertisements to study skill demand and job search patterns",
-    "section": "",
-    "text": "This is the page for the project Online job advertisements to study skill demand and job search patterns financed by the National Science Centre, OPUS 27 grant no. 2024/53/B/HS4/01580."
-  },
-  {
     "objectID": "readme.html",
     "href": "readme.html",
     "title": "About",
@@ -28,10 +14,10 @@
     "text": "dr hab. Robert Pater, prof. WSIiZ  Department of Economics and Finance  University of Information Technology and Management in Rzeszow  35-225 Rzeszów, ul. Sucharskiego 2  tel. +48 17-86-61-134 | rpater[at]wsiz.edu.pl  https://www.wsiz.edu.pl/ \ndr Maciej Beręsewicz, prof. UEP  Department of Statistics  Poznań University of Economics and Business  al. Niepodległości 10 | 61-875 Poznań  tel. +48 61-854-36-80 | maciej.beresewicz[at]ue.poznan.pl  https://www.ue.poznan.pl"
   },
   {
-    "objectID": "contact.html#contact-details",
-    "href": "contact.html#contact-details",
-    "title": "Contact",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "OJALAB: Online job advertisements to study skill demand and job search patterns",
     "section": "",
-    "text": "dr hab. Robert Pater, prof. WSIiZ  Department of Economics and Finance  University of Information Technology and Management in Rzeszow  35-225 Rzeszów, ul. Sucharskiego 2  tel. + 48 17-86-61-134 | rpater[at]wsiz.edu.pl  www.ue.poznan.pl \ndr Maciej Beręsewicz, prof. UEP  Department of Statistics  Poznań University of Economics and Business  al. Niepodległości 10 | 61-875 Poznań  tel. + 48 61-854-36-80 | maciej.beresewicz[at]ue.poznan.pl  www.ue.poznan.pl"
+    "text": "This is the page for the project Online job advertisements to study skill demand and job search patterns financed by the National Science Centre, OPUS 27 grant no. 2024/53/B/HS4/01580."
   }
 ]
