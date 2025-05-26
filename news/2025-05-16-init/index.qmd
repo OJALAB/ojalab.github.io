@@ -2,7 +2,7 @@
 title: "OJALAB website"
 description: "Kick-off of the project web page"
 author: "Maciej Beręsewicz"
-date: "2025-06-16"
+date: "2025-05-16"
 draft: false
 categories:
   - info

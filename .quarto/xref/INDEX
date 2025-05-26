@@ -40,5 +40,11 @@
   },
   "publications/articles/2025-beresewicz-jos.qmd": {
     "2025-beresewicz-jos.html": "7fdfd525"
+  },
+  "news/2025-05-16-init/index.qmd": {
+    "index.html": "23aef858"
+  },
+  "news/2025-05-22-stypendia/index.qmd": {
+    "index.html": "afb12eb0"
   }
 }

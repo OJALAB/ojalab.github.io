@@ -3,9 +3,13 @@ pagetitle: "Opportunities | OJALAB"
 toc: true
 ---
 
-## Offers
+## Offers for graduate students (master and PhD)
 
-## For Undergraduate Students
+- [stypendium naukowe -- estymacja liczby wakatów / research scholarship -- estimation of the number of vacancies]()
+- [stypendium naukowe -- próby nielosowe / research scholarship -- non-probability surveys]()
 
-## For Graduate Students
+## Offers for undergraduate students
 
+- is the topic of the grant interesting for you? 
+- are you interested in online data?
+- contact us for more information! 

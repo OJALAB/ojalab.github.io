@@ -1,0 +1,118 @@
+---
+title: "Oferty stypendium w grancie"
+description: "Oferta stypendium naukowego dla studentów i doktorantów"
+author: "Maciej Beręsewicz"
+date: "2025-05-26"
+draft: false
+categories:
+  - jobs
+  - polish
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+Zachęcam studentów i doktornatów do aplikowania do pracy w grancie! Poniżej przedstawiamy najważniejsze informacje
+
++ **Typ konkursu**: NCN OPUS 27 
++ **Termin składania ofert**: 30.09.2025 
++ **Forma składania**: e-mail na adres maciej.beresewicz[at]ue.poznan.pl (z dopiskiem: **OJALAB STYPENDIUM #1** lub **#2**) 
+
+**Warunki finansowe i czas pracy**
+
++ wynagrodzenie (stypendium): **5000 zł / miesięcznie** (możliwość łączenia z innymi źródłami, np. stypendium w ramach szkoły doktorskiej)
++ planowany termin rozpoczęcia: **1 listopad 2025** 
++ okres pracy: **12 miesięcy, z możliwością przedłużenia** o kolejne miesiące aż do końca trwania projektu, po pozytywnej ocenie kierownika projektu 
++ trzy roboczodni w tygodniu (24 godzin w tygodniu, możliwość indywidualnego grafiku czasu pracy) 
+
+**Warunki zatrudnienia (dodatkowe)**
+
++ możliwość pracy zdalnej (nie trzeba być w Poznaniu), gotowość do podróży na spotkania zespołu (Poznań, Warszawa, Rzeszów) 
++ praca pod ścisłym nadzorem kierownika projektu - stypendyści powinni pozostawać w kontakcie telefonicznym i online z członkami zespołu projektowego; powinni też uczestniczyć w spotkaniach online w terminach i za pośrednictwem komunikatorów internetowych wskazanych przez kierownika projektu; przy czym spotkania nie będą odbywać się częściej niż raz w tygodniu 
++ w przypadku doktorantów preferowane przygotowanie rozprawy doktorskiej na podstawie projektu 
++ w przypadku doktorantów możliwa opieka dwóch promotorów (np. matematyka i ekonomia, informatyka i ekonomia) -- przygotowanie rozprawy doktorskiej w innym ośrodku niż Uniwersytet Ekonomiczny w Poznaniu 
+
+
+**Wymagania**
+
++ status studenta II stopnia lub doktoranta w zakresie matematyki, statystyki, ekonomii lub dziedzin pokrewnych 
++ bardzo dobra znajomość matematyki i statystyki umożliwiająca wyprowadzanie nowych estymatorów i badania ich własności 
++ znajomość pakietów statystycznych i języków programowania na otwartej licencji (preferowany R, mile widziany Python czy Julia) 
++ mile widziana znajomość systemów kontroli wersji git oraz tworzenia i utrzymywania prostych stron internetowych 
++ znajomość języka angielskiego w stopniu umożliwiającym komunikację, czytanie oraz pisanie 
+
+**Stanowiska**
+
+::: {.panel-tabset}
+
+## Estymacja liczby wakatów (oferta #1)
+
+**Opis zadań**
+
++ przetwarzanie danych ilościowych i jakościowych (tekstowych) pochodzących z ogłoszeń o pracy i innych źródeł 
++ opracowanie nowych metod statystycznej oceny jakości danych online (m.in. błędy pokrycia, błędy pomiaru) 
++ opracowanie nowych metod szacowania liczby wolnych miejsc pracy poprzez wykorzystanie m.in. probabilistycznego łączenie rekordów i metod capture-recapture (por. literatura na końcu ogłoszenia) 
++ oszacowanie liczby wolnych miejsc pracy (ogółem i w wybranych przekrojach; m.in. wg typu umowy, przekrojów przestrzennych, zawodów) 
++ programowanie w językach open source, tworzenie oprogramowania implementującego zaproponowane podejścia 
++ przygotowanie artykułów naukowych opisujących zaproponowane podejścia 
++ uczestnictwo w konferencjach naukowych z referatami / plakatami, uczestnictwo w seminariach, spotkaniach zespołów 
++ wykonywanie ew. innych zadań zleconych przez kierownika projektu, dotyczących przetwarzania danych gromadzonych w ramach projektu 
++ raportowanie wyników prac w ujęciu miesięcznym 
+
+**Dodatkowe informacje**
+
++ wybrani kandydaci mogą zostać zaproszeni drogą elektroniczną na rozmowę kwalifilacyjną po sprawdzeniu umiejętności (wynkonaniu zadan przesłanych przez kierownika projektu) 
++ stypendysta otrzyma do dyspozycji laptop na potrzeby pracy w grancie (własność Katedry Statystyki UEP) 
++ w ramach pracy w grancie przewidziane jest pełne finansowanie jednej/dwóch konferencji w roku i/lub wizyty w wybranym ośrodku naukowym 
++ dysponujemy długim szeregiem czasowym indywidualnych ofert pracy z internetu oraz z rejestru CBOP, a także informacjami z badania Popyt na pracę  
++ dysponujemy klasyfikatorem ofert pracy opisanym [tutaj](https://ojalab.ue.poznan.pl/publications/articles/2025-beresewicz-jos.html)
++ wszelkie pytania proszę kierować na adres kierownika projektu maciej.beresewicz[at]ue.poznan.pl wpisując w temacie wiadomości OJALAB STYPENDIUM #1 (jest możliwość umówienia się na rozmowę przez MS Teams). 
++ wybrana literatura: 
+    + Chen, B., Shrivastava, A., & Steorts, R. C. (2018). Unique entity estimation with application to the Syrian conflict. The Annals of Applied Statistics, 12(2), 1039-1067. 
+    + Beręsewicz, M., Wydmuch, M., Cherniaiev, H., & Pater, R. (2024). Multilingual hierarchical classification of job advertisements for job vacancy statistics. arXiv preprint arXiv:2411.03779. 
+    + Böhning, D., Bunge, J., & Heijden, P. G. (Eds.). (2018). Capture-recapture methods for the social and medical sciences. Boca Raton: CRC Press. 
+    + Klingwort, J., Buelens, B., & Schnell, R. (2021). Capture–recapture techniques for transport survey estimate adjustment using permanently installed highway-sensors. Social Science Computer Review, 39(4), 527-542. 
+
+
+## Próby nielosowe (oferta #2)
+
++ przetwarzanie danych ilościowych i jakościowych (tekstowych) pochodzących z ogłoszeń o pracy i innych źródeł 
++ programowanie w językach open source, praca nad rozwojem pakietu nonprobsvy, (por. https://cran.r-project.org/web/packages/nonprobsvy/index.html) 
++ opracowanie nowych metod estymacji z wykorzystaniem prób nieprobabilistycznych uwzględniających m.in. błąd klasyfikacji czy pokrycia (m.in. wykorzystując metody przedstawione w literaturze na końcu ogłoszenia)
++ estymacja wskaźników statystycznej jakości danych dla prób nieprobabilistycznych 
++ oszacowanie popytu na umiejętności i kompetencje na podstawie danych administracyjnych, online i badań częściowych 
++ przygotowanie artykułów naukowych opisujących zaproponowane podejścia 
++ uczestnictwo w konferencjach naukowych z referatami / plakatami, uczestnictwo w seminariach, spotkaniach zespołów 
++ wykonywanie ew. innych zadań zleconych przez kierownika projektu, dotyczących przetwarzania danych gromadzonych w ramach projektu 
++ raprotowanie wyników prac w ujęciu miesięcznym 
+
+**Dodatkowe informacje**
+
++ wybrani kandydaci mogą zostać zaproszeni drogą elektroniczną na rozmowę kwalifilacyjną po sprawdzeniu umiejętności (wynkonaniu zadan przesłanych przez kierownika projektu) 
++ stypendysta otrzyma do dyspozycji laptop na potrzeby pracy w grancie (własność Katedry Statystyki UEP) 
++ w ramach pracy w grancie przewidziane jest pełne finansowanie jednej/dwóch konferencji w roku i/lub wizyty w wybranym ośrodku naukowym 
++ dysponujemy długim szeregiem czasowym indywidualnych ofert pracy z internetu oraz z rejestru CBOP, a także informacjami z badania Popyt na pracę  
++ dysponujemy klasyfikatorem ofert pracy opisanym [tutaj](https://ojalab.ue.poznan.pl/publications/articles/2025-beresewicz-jos.html)
++ wszelkie pytania proszę kierować na adres kierownika projektu maciej.beresewicz[at]ue.poznan.pl wpisując w temacie wiadomości OJALAB STYPENDIUM #2 (jest możliwość umówienia się na rozmowę przez MS Teams). 
++ wybrana literatura: 
+    + Chrostowski, Ł., Chlebicki, P., & Beręsewicz, M. (2025). nonprobsvy--An R package for modern methods for non-probability surveys. arXiv preprint arXiv:2504.04255. 
+    + Battaglia, L., Christensen, T., Hansen, S., & Sacher, S. (2025). Inference for regression with variables generated by AI or machine learning. arXiv. https://arxiv.org/abs/2402.15585  
+    + Schennach, S. M. (2016). Recent advances in the measurement error literature. Annual review of economics, 8(1), 341-377. 
+    + Chen, X., Hong, H., & Tamer, E. (2005). Measurement error models with auxiliary data. The Review of Economic Studies, 72(2), 343-366. 
+    + Ludwig, J., Mullainathan, S., & Rambachan, A. (2025). Large language models: An applied econometric framework (No. w33344). National Bureau of Economic Research. 
+    + Torchiana, A. L., Rosenbaum, T., Scott, P. T., & Souza-Rodrigues, E. (2025). Improving estimates of transitions from satellite data: a hidden Markov model approach. Review of Economics and Statistics, 107(2), 426-441. 
+    + Beesley, L. J., & Mukherjee, B. (2022). Statistical inference for association studies using electronic health records: handling both selection bias and outcome misclassification. Biometrics, 78(1), 214-226. 
+    + Adhya, S., Roy, S., & Banerjee, T. (2022). Prediction of Finite Population Proportion When Responses are Misclassified. Journal of Survey Statistics and Methodology, 10(5), 1319-1345. 
+:::
+
+**Wymagane dokumenty**
+ 
+- dane kontaktowe 
+- zaświadczenie potwierdzające status studenta/doktoranta 
+- list motywacyjny 
+- CV 
+- informacje o ewentualnej działalności naukowej (mile widziane listy referencyjne) 
+- zgoda na przetwarzanie danych osobowych zgodnie z Ustawą z dnia 29 sierpnia 1997r. o ochronie danych osobowych (Dz. U. z 2016 r. poz. 922 z późn. zm.). 
+
+
