@@ -13,7 +13,8 @@ format:
     toc: false
 ---
 
-Zachęcam studentów i doktornatów do aplikowania do pracy w grancie! Poniżej przedstawiamy najważniejsze informacje
+Zachęcam studentów i doktorantów do aplikowania do pracy w grancie! Poniżej przedstawiamy najważniejsze informacje
+
 
 + **Typ konkursu**: NCN OPUS 27 
 + **Termin składania ofert**: 30.09.2025 
