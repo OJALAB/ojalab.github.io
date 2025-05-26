@@ -13,7 +13,7 @@ format:
     toc: false
 ---
 
-Zachęcam studentów i doktorantów do aplikowania do pracy w grancie! Poniżej przedstawiamy najważniejsze informacje
+Zachęcamy studentów i doktorantów do pracy w grancie! Poniżej przedstawiamy najważniejsze informacje
 
 
 + **Typ konkursu**: NCN OPUS 27 
