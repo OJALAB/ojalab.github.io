@@ -19,6 +19,7 @@ Zachęcamy studentów i doktorantów do pracy w grancie! Poniżej przedstawiamy 
 + **Typ konkursu**: NCN OPUS 27 
 + **Termin składania ofert**: 30.09.2025 
 + **Forma składania**: e-mail na adres maciej.beresewicz[at]ue.poznan.pl (z dopiskiem: **OJALAB STYPENDIUM #1** lub **#2**) 
++ **Ogłoszenia na stronie NCN**: [Oferta #1: wakaty](https://www2.ncn.gov.pl/baza-ofert/?akcja=wyswietl&id=228552), [Oferta #2: próby nielosowe](https://www2.ncn.gov.pl/baza-ofert/?akcja=wyswietl&id=228553)
 
 **Warunki finansowe i czas pracy**
 
@@ -48,6 +49,7 @@ Zachęcamy studentów i doktorantów do pracy w grancie! Poniżej przedstawiamy 
 ::: {.panel-tabset}
 
 ## Estymacja liczby wakatów (oferta #1)
+
 
 **Opis zadań**
 

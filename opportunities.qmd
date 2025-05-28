@@ -5,9 +5,14 @@ toc: true
 
 ## Offers for graduate students (master and PhD)
 
-- [stypendium naukowe -- estymacja liczby wakatów / research scholarship -- estimation of the number of vacancies](https://ojalab.ue.poznan.pl/news/2025-05-22-stypendia/)
-- [stypendium naukowe -- próby nielosowe / research scholarship -- non-probability surveys](https://ojalab.ue.poznan.pl/news/2025-05-22-stypendia/)
-
+- stypendium naukowe -- estymacja liczby wakatów / research scholarship -- estimation of the number of vacancies]:
+   + [ogłoszenie na portalu NCN](https://www2.ncn.gov.pl/baza-ofert/?akcja=wyswietl&id=228552)
+   + [ogłoszenie na stroni grantu](https://ojalab.ue.poznan.pl/news/2025-05-22-stypendia/)
+   
+- stypendium naukowe -- próby nielosowe / research scholarship -- non-probability surveys:
+   + [ogłoszenie na portalu NCN](https://www2.ncn.gov.pl/baza-ofert/?akcja=wyswietl&id=228553)
+   + [ogłoszenie na stroni grantu](https://ojalab.ue.poznan.pl/news/2025-05-22-stypendia/)
+   
 ## Offers for undergraduate students
 
 - is the topic of the grant interesting for you? 
