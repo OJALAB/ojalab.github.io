@@ -3,7 +3,6 @@ title: "Contact"
 toc: false
 ---
 
-
 **dr hab. Robert Pater, prof. WSIiZ** <br />
 Department of Economics and Finance <br />
 University of Information Technology and Management in Rzeszow <br />
@@ -18,3 +17,4 @@ Poznań University of Economics and Business <br />
 al. Niepodległości 10 | 61-875 Poznań <br />
 tel. +48 61-854-36-80 | maciej.beresewicz[at]ue.poznan.pl <br />
 https://www.ue.poznan.pl <br />
+https://maciejberesewicz.com
