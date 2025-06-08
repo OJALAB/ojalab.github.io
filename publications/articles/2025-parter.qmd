@@ -17,6 +17,7 @@ categories:
 In this article we describe a study aimed at estimating job vacancy statistics, in particular the number of entities with at least one vacancy. To achieve this goal, we propose an alternative approach to the methodology exploiting survey data, which is based solely on data from administrative registers and online sources and relies on dual system estimation (DSE).
 As these sources do not cover the whole reference population and the number of units appearing in all datasets is small, we have developed a DSE approach for negatively dependent sources based on a recent work by Chatterjee and Bhuyan (2020). To achieve the main goal we conducted a thorough data cleaning procedure in order to remove out-of-scope units, identify entities from the target population, and link them by identifiers to minimize linkage errors. We verified the effectiveness and sensitivity of the proposed estimator in simulation studies.
 From a practical point of view, our results show that the current vacancy survey in Poland underestimates the number of entities with at least one vacancy by about 10-15%. The main reasons for this discrepancy are non-sampling errors due to non-response and under-reporting, which is identified by comparing survey data with administrative data.
+
 ## Citation
 
 > Beręsewicz, M., Cherniaiev, H., & Pater, R. (2021). Estimating the number of entities 
