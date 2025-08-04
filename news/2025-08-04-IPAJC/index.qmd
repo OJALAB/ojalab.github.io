@@ -1,0 +1,17 @@
+---
+title: "IPAJC Seminar"
+description: "International Partnership on Automatic Job Coding"
+author: "Maciej Beręsewicz"
+date: "2025-08-04"
+draft: false
+categories:
+  - info
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+Maciej Beręsewicz and Robert Pater presented the paper "Multilingual hierarchical classification of job advertisements for job vacancy statistics" during online meeting of the [International Partnership on Automatic Job Coding](https://www.ipajc.com/about-us) on August 1st, 2025. 
+
+Presentation can be found [here](./2025_IPAJC_seminar.pdf). 
