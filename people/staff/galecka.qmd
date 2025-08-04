@@ -15,9 +15,12 @@ about:
     - icon: mortarboard
       text: scholar
       href: https://scholar.google.pl/citations?hl=pl&user=lgADkJQAAAAJ
+---
+
 
 ## Pen Portrait
+
 Prof. ucz. w Katedrze Ekonomii I – doktor habilitowana w dziedzinie nauk społecznych w dyscyplinie ekonomia i finanse, profesor uczelni w Szkole Głównej Handlowej w Warszawie, Research Affiliate w Life Course Centre (Australia), oraz Prague University of Economics and Business (Czechy). Kierowniczka projektów badawczych finansowanych przez Narodowe Centrum Nauki, NAWA, CERGE-EI Foundation i OECD. Członkini Rady Naukowej Instytutu Badań Edukacyjnych (IBE). Otrzymała m.in. stypendium START Fundacji na rzecz Nauki Polskiej, stypendium ministra dla wybitnych młodych naukowców, stypendium Dekaban-Liddle Senior Fellowship. Odbyła wyjazdy naukowe i pobyty badawcze m.in. na Universidad de Sevilla, Universidad Pablo de Olavide en Sevilla, Universidad de Huelva, RWI Berlin, University of Glasgow, University of Wollongong. Zajmuje się ekonomią pracy (w szczególności ewaluacją instrumentów pasywnej polityki rynku pracy) oraz ekonomią przestępczości.
 
----
+
 

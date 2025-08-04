@@ -15,6 +15,8 @@ about:
     - icon: mortarboard
       text: scholar
       href: https://scholar.google.pl/citations?user=11utvycAAAAJ
+---
+
 
 ## Pen Portrait
 
@@ -37,5 +39,5 @@ Współwykonawca ponad 40 projektów badawczych, w tym kilku międzynarodowych d
 Od początku kariery zawodowej jest mocno ukierunkowany na analizę i wnioskowanie z danych statystycznych. Ma bogate doświadczenie w empirycznym wykorzystaniu wyników badań. Współpracował m.in. z Eurostat, Bankiem Światowym, OECD oraz z wieloma instytucjami krajowymi, m.in. Ministerstwem Edukacji Narodowej, Ministerstwem Rodziny, Pracy i Polityki Społecznej oraz wojewódzkimi urzędami pracy w zakresie zastosowania wyników badań do kształtowania polityki gospodarczej i edukacyjnej. W zakresie popularyzacji wyników badań regularnie współpracował z Gazetą Wyborczą, Rzeczpospolitą i czasopismem Polish Market.
 
 :::
----
+
 
