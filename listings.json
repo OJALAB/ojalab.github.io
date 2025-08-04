@@ -1,12 +1,5 @@
 [
   {
-    "listing": "/publications.html",
-    "items": [
-      "/publications/articles/2025-parter.html",
-      "/publications/articles/2025-beresewicz-jos.html"
-    ]
-  },
-  {
     "listing": "/people.html",
     "items": [
       "/people/staff/pater.html",
@@ -16,8 +9,16 @@
     ]
   },
   {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/articles/2025-parter.html",
+      "/publications/articles/2025-beresewicz-jos.html"
+    ]
+  },
+  {
     "listing": "/news.html",
     "items": [
+      "/news/2025-08-04-IPAJC/index.html",
       "/news/2025-05-22-stypendia/index.html",
       "/news/2025-05-16-init/index.html"
     ]
