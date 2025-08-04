@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Beręsewicz, Cherniaiev and Pater">
 
-<title>Ewa Gałecka-Burdziak – OJALAB</title>
+<title>Estimating the number of entities with vacancies using administrative and online data – OJALAB</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -19,6 +20,40 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -33,6 +68,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
@@ -130,36 +166,63 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-jolla">
-  <img src="galecka.jpeg" class="about-image
-  round " style="height: 15em; width: 15em;">
- <header id="title-block-header" class="quarto-title-block default">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Ewa Gałecka-Burdziak</h1>
-<p class="subtitle lead">Research Staff</p>
-</div>
-<div class="quarto-title-meta">
+<h1 class="title">Estimating the number of entities with vacancies using administrative and online data</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">article</div>
+    <div class="quarto-category">working-paper</div>
   </div>
-</header><main class="content" id="quarto-document-content">
-<section id="pen-portrait" class="level2">
-<h2 data-anchor-id="pen-portrait">Pen Portrait</h2>
-<p>Prof.&nbsp;ucz. w Katedrze Ekonomii I – doktor habilitowana w dziedzinie nauk społecznych w dyscyplinie ekonomia i finanse, profesor uczelni w Szkole Głównej Handlowej w Warszawie, Research Affiliate w Life Course Centre (Australia), oraz Prague University of Economics and Business (Czechy). Kierowniczka projektów badawczych finansowanych przez Narodowe Centrum Nauki, NAWA, CERGE-EI Foundation i OECD. Członkini Rady Naukowej Instytutu Badań Edukacyjnych (IBE). Otrzymała m.in. stypendium START Fundacji na rzecz Nauki Polskiej, stypendium ministra dla wybitnych młodych naukowców, stypendium Dekaban-Liddle Senior Fellowship. Odbyła wyjazdy naukowe i pobyty badawcze m.in. na Universidad de Sevilla, Universidad Pablo de Olavide en Sevilla, Universidad de Huelva, RWI Berlin, University of Glasgow, University of Wollongong. Zajmuje się ekonomią pracy (w szczególności ewaluacją instrumentów pasywnej polityki rynku pracy) oraz ekonomią przestępczości.</p>
+  </div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Beręsewicz, Cherniaiev and Pater </p>
+          </div>
+  </div>
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>In this article we describe a study aimed at estimating job vacancy statistics, in particular the number of entities with at least one vacancy. To achieve this goal, we propose an alternative approach to the methodology exploiting survey data, which is based solely on data from administrative registers and online sources and relies on dual system estimation (DSE). As these sources do not cover the whole reference population and the number of units appearing in all datasets is small, we have developed a DSE approach for negatively dependent sources based on a recent work by Chatterjee and Bhuyan (2020). To achieve the main goal we conducted a thorough data cleaning procedure in order to remove out-of-scope units, identify entities from the target population, and link them by identifiers to minimize linkage errors. We verified the effectiveness and sensitivity of the proposed estimator in simulation studies. From a practical point of view, our results show that the current vacancy survey in Poland underestimates the number of entities with at least one vacancy by about 10-15%. The main reasons for this discrepancy are non-sampling errors due to non-response and under-reporting, which is identified by comparing survey data with administrative data.</p>
+</section>
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<blockquote class="blockquote">
+<p>Beręsewicz, M., Cherniaiev, H., &amp; Pater, R. (2021). Estimating the number of entities with vacancies using administrative and online data. arXiv preprint arXiv:2106.03263.</p>
+</blockquote>
+</section>
+<section id="bibtex" class="level2">
+<h2 class="anchored" data-anchor-id="bibtex">BibTeX</h2>
+<div class="sourceCode" id="cb1"><pre class="sourceCode tex code-with-copy"><code class="sourceCode latex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>@misc{beręsewicz2021estimatingnumberentitiesvacancies,</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>      title={Estimating the number of entities with vacancies using administrative and online data}, </span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>      author={Maciej Beręsewicz and Herman Cherniaiev and Robert Pater},</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>      year={2025},</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>      eprint={2106.03263},</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>      archivePrefix={arXiv},</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>      primaryClass={stat.AP},</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>      url={https://arxiv.org/abs/2106.03263}, </span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 
 
 </section>
-</main> 
-  <hr class="about-sep">
-   <div class="about-links">
-  <a href="https://orcid.org/0000-0001-9020-8486" class="about-link" rel="" target="">
-     <span class="about-link-text">orcid</span>
-  </a>
-  <a href="https://scholar.google.pl/citations?hl=pl&amp;user=lgADkJQAAAAJ" class="about-link" rel="" target="">
-    <i class="bi bi-mortarboard"></i>
-     <span class="about-link-text">scholar</span>
-  </a>
-</div>
-</div>
- <!-- /main -->
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -180,6 +243,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
