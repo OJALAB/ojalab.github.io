@@ -8,6 +8,12 @@ toc: false
 
 This is the page for the project **Online job advertisements to study skill demand and job search patterns** financed by the [National Science Centre](https://www.ncn.gov.pl/en), OPUS 27 grant no. 2024/53/B/HS4/01580.
 
+```{=html}
+<div style="display: flex; justify-content: center; align-items: center;">
+     <img src="figs/ojalab-logo-website.jpg" style="width: 400px; margin-right: 10px;"/>
+</div>
+```
+
 ::: {.panel-tabset}
 
 ## English
