@@ -2,7 +2,7 @@
 title: "Maciej Beręsewicz"
 sortby: "2"
 subtitle: "Co-Principal Investigator"
-image: beresewicz.png
+image: beresewicz2.jpg
 started: "Spring 2025"
 toc: false
 resources: ""
