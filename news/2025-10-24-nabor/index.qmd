@@ -1,0 +1,47 @@
+---
+title: "Wyniki konkursu (stypendia)"
+description: "Wyniki konkursu na 2 stypendia naukowe"
+author: "Maciej Beręsewicz"
+date: "2025-10-24"
+draft: false
+categories:
+  - info
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+# Ogólne informacje
+
+Z rozstrzygnięcia konkursu o przyznanie dwóch stypendiów naukowych dla studenta/doktoranta w celu wykonywania zadań w projekcie badawczym pt. „OJALAB: Internetowe oferty pracy na potrzeby pomiaru popytu na umiejętności oraz badań mechanizmu poszukiwań na rynku pracy”, finansowanego ze środków NCN na podstawie umowy nr 2024/53/B/HS4/01580 z dnia 10.01.2025 roku w ramach konkursu NCN OPUS 27. 
+
+Dokumenty związane z rozstrzygnieciem konkursu:
+
++ [protokół](wyniki-protokol.pdf)
++ [lista rankingowa](wyniki-lista.pdf)
+
+
+# Lista rankingowa
+
+Puntację ustalono zgodnie z załącznikiem do uchwały Rady NCN nr 25/2024 z dnia 4 marca 2024 r. Maksymalna liczba punktów 3,7. Oceniano 3 kryteria: 
+
+1) **dorobek naukowy kandydata**, w tym publikacje w renomowanych wydawnictwach/czasopismach naukowych (50% oceny końcowej, 0-4 pkt), 
+
+2) **osiągnięcia** wynikające z prowadzenia badań naukowych, stypendia, nagrody oraz doświadczenie naukowe zdobyte w kraju lub za granicą, warsztaty i szkolenia naukowe, udział w projektach badawczych (20% oceny końcowej, 0-4 pkt) oraz 
+
+3) **kompetencje** do realizacji określonych zadań w projekcie badawczym (30 % oceny końcowej, 0-3 pkt). 
+
+
+Przy nazwisku podano łączną liczbę punktów, a w nawiasie liczbę punktów z danego kryterium. 
+
+| Stanowisko 1 - estymacja wielkości populacji wakatów | Stanowisko 2 - próby nielosowe |
+| :--- | :--- |
+| 1. Adam Struzik (UAM) -- 1,5 pkt (0,3,3). | 1. Michał Warmuz (AGH) -- 1,7pkt (0,4,3). |
+| 2. Michał Warmuz (AGH) -- 1,4 pkt (0,4,2) | 2. Bartosz Bogulas (UAM) -- 1,5 pkt (0,3,3) |
+| 3. Michał Stadnik (AGH) -- 1,1 pkt (0,4,1) | 3. Adam Struzik (UAM) -- 1,2 pkt (0,3,2) |
+| 4. Igor Michalak (UEP) -- 0 pkt (0,0,0) | 4. Michał Stadnik (AGH) -- 1,1 pkt (0,4,1) |
+|  | 5. Igor Michalak (UEP) -- 0 pkt (0,0,0) |
+
+
+
