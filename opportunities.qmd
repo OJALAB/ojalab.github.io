@@ -7,11 +7,13 @@ toc: true
 
 - stypendium naukowe -- estymacja liczby wakatów / research scholarship -- estimation of the number of vacancies]:
    + [ogłoszenie na portalu NCN](https://www2.ncn.gov.pl/baza-ofert/?akcja=wyswietl&id=228552)
-   + [ogłoszenie na stroni grantu](https://ojalab.ue.poznan.pl/news/2025-05-22-stypendia/)
+   + [ogłoszenie na stronie grantu](https://ojalab.ue.poznan.pl/news/2025-05-22-stypendia/)
+   + [wyniki (strona grantu)](https://ojalab.ue.poznan.pl/news/2025-10-24-nabor/)
    
 - stypendium naukowe -- próby nielosowe / research scholarship -- non-probability surveys:
    + [ogłoszenie na portalu NCN](https://www2.ncn.gov.pl/baza-ofert/?akcja=wyswietl&id=228553)
    + [ogłoszenie na stroni grantu](https://ojalab.ue.poznan.pl/news/2025-05-22-stypendia/)
+   + [wyniki (strona grantu)](https://ojalab.ue.poznan.pl/news/2025-10-24-nabor/)
    
 ## Offers for undergraduate students
 

@@ -14,13 +14,12 @@ format:
 
 # Ogólne informacje
 
-Z rozstrzygnięcia konkursu o przyznanie dwóch stypendiów naukowych dla studenta/doktoranta w celu wykonywania zadań w projekcie badawczym pt. „OJALAB: Internetowe oferty pracy na potrzeby pomiaru popytu na umiejętności oraz badań mechanizmu poszukiwań na rynku pracy”, finansowanego ze środków NCN na podstawie umowy nr 2024/53/B/HS4/01580 z dnia 10.01.2025 roku w ramach konkursu NCN OPUS 27. 
+Rozstrzygnięcie konkursu o przyznanie dwóch stypendiów naukowych dla studenta/doktoranta w celu wykonywania zadań w projekcie badawczym pt. „OJALAB: Internetowe oferty pracy na potrzeby pomiaru popytu na umiejętności oraz badań mechanizmu poszukiwań na rynku pracy”, finansowanego ze środków NCN na podstawie umowy nr 2024/53/B/HS4/01580 z dnia 10.01.2025 roku w ramach konkursu NCN OPUS 27. 
 
 Dokumenty związane z rozstrzygnieciem konkursu:
 
 + [protokół](wyniki-protokol.pdf)
 + [lista rankingowa](wyniki-lista.pdf)
-
 
 # Lista rankingowa
 
