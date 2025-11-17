@@ -1,0 +1,21 @@
+---
+title: "Stypendyści grantu"
+description: "Do grantu dołączyli: Adam Struzik i Michał Warmuz"
+author: "Maciej Beręsewicz"
+date: "2025-11-01"
+draft: false
+image: students.jpg
+categories:
+  - students
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+Do grantu dołączyli: Adam Struzik (UAM) i Michał Warmuz (AGH)!
+
+
+<div align="center">
+![](students.jpg) 
+</div>
