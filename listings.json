@@ -5,7 +5,8 @@
       "/people/staff/pater.html",
       "/people/staff/beresewicz.html",
       "/people/staff/galecka.html",
-      "/people/staff/cherniaiev.html"
+      "/people/staff/cherniaiev.html",
+      "/people/students/struzik.html"
     ]
   },
   {
@@ -18,6 +19,7 @@
   {
     "listing": "/news.html",
     "items": [
+      "/news/2025-11-01-studenci/index.html",
       "/news/2025-10-24-nabor/index.html",
       "/news/2025-08-04-IPAJC/index.html",
       "/news/2025-05-22-stypendia/index.html",
