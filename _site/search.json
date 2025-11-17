@@ -123,7 +123,7 @@
     "href": "people.html#students",
     "title": "OJALAB",
     "section": "Students",
-    "text": "Students\n\n\n\n\n\nNo matching items"
+    "text": "Students\n\n\n\n\n\n\n\n\n\n\nAdam Struzik\n\n\nStudent\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html#reseach-consultants",
@@ -250,5 +250,26 @@
     "title": "Stypendyści grantu",
     "section": "",
     "text": "Do grantu dołączyli: Adam Struzik (UAM) i Michał Warmuz (UAM)!"
+  },
+  {
+    "objectID": "people/students/struzik.html",
+    "href": "people/students/struzik.html",
+    "title": "Adam Struzik",
+    "section": "",
+    "text": "Adam Struzik is a mathematics Master’s degree student at Adam Mickiewicz University (Poznań, Poland), specialising in statistics and data analysis. His interests focus on machine learning and spatial data analysis.\nHe is employed as a Senior Statistician at the Centre for Urban Statistics of the Statistical Office in Poznań."
+  },
+  {
+    "objectID": "people/students/struzik.html#biography",
+    "href": "people/students/struzik.html#biography",
+    "title": "Adam Struzik",
+    "section": "",
+    "text": "Adam Struzik is a mathematics Master’s degree student at Adam Mickiewicz University (Poznań, Poland), specialising in statistics and data analysis. His interests focus on machine learning and spatial data analysis.\nHe is employed as a Senior Statistician at the Centre for Urban Statistics of the Statistical Office in Poznań."
+  },
+  {
+    "objectID": "people/students/struzik.html#education",
+    "href": "people/students/struzik.html#education",
+    "title": "Adam Struzik",
+    "section": "Education",
+    "text": "Education\n\n2025–current: Adam Mickiewicz University, Poznań, Poland: Master’s degree student (mathematics, specialisation: statistics and data analysis)\n\n2022–2025: Adam Mickiewicz University, Poznań, Poland: Bachelor’s degree student (mathematics, specialisation: statistics and data analysis)"
   }
 ]
