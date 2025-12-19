@@ -1,0 +1,23 @@
+---
+title: "Spotkanie zespołu"
+description: "Pierwsze spotkanie zespołu w Warszawie"
+author: "Maciej Beręsewicz"
+date: "2025-12-19"
+draft: false
+image: team.jpg
+categories:
+  - students
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+W Szkole Głównej Handlowej odbyło się pierwsze spotkanie zespołu badawczego grantu OJALAB. 
+
+Podczas spotkania przedyskutowaliśmy plany badawcze, ustaliliśmy cele na kolejny rok i metody, które będą wykorzystywane w trakcie grantu. 
+
+<div align="center">
+![](team.jpg) 
+</div>
+
