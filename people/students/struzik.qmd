@@ -5,19 +5,26 @@ subtitle: "Student"
 image: struzik.jpg
 started: "Fall 2025"
 toc: false
+about: 
+  id: person-profile
+  template: jolla
+  links: 
+    - icon: github
+      text: github
+      href: https://github.com/ASuGuit
 ---
 
 ## Biography
 
-Adam Struzik is a mathematics Master's degree student at Adam
-Mickiewicz University (Poznań, Poland), specialising in statistics and
-data analysis. His interests focus on machine learning and spatial data
-analysis.
+Adam Struzik is a Master's degree student in Data Analysis and Data Processing at Adam Mickiewicz University (Poznań, Poland). His interests focus on entity resolution, machine learning, and spatial data analysis.
 
-He is employed as a Senior Statistician at the Centre for Urban
-Statistics of the Statistical Office in Poznań.
+He is employed as a Specialist at the Centre for Urban Statistics of the Statistical Office in Poznań, where he has been working on the project *Geospatial statistics -- step by step in methodology and in practice*, 101156254-2023-PL-GEOS-STEP, which is supported by a Eurostat grant.
+
+He is also employed as a contractor in the research project *Towards census-like statistics for foreign-born populations -- quality, data integration and estimation*, funded by the National Science Centre, OPUS 20 grant no. 2020/39/B/HS4/00941.
+
+In the OJALAB project, he is responsible for proposing a new approach to estimate the number of vacancies based solely on online and administrative data, using capture-recapture and latent class analysis methods.
 
 ## Education
 
--   2025–current: Adam Mickiewicz University, Poznań, Poland: Master's degree student (mathematics, specialisation: statistics and data analysis)  
--   2022–2025: Adam Mickiewicz University, Poznań, Poland: Bachelor's degree student (mathematics, specialisation: statistics and data analysis)  
+-   2025–Present: Adam Mickiewicz University, Poznań, Poland: Master's degree student in Data Analysis and Data Processing.  
+-   2022–2025: Adam Mickiewicz University, Poznań, Poland: Bachelor's degree in Mathematics, specialization: Statistics and Data Analysis.    

@@ -1,5 +1,15 @@
 [
   {
+    "listing": "/people.html",
+    "items": [
+      "/people/staff/pater.html",
+      "/people/staff/beresewicz.html",
+      "/people/staff/galecka.html",
+      "/people/staff/cherniaiev.html",
+      "/people/students/struzik.html"
+    ]
+  },
+  {
     "listing": "/publications.html",
     "items": [
       "/publications/articles/2025-parter.html",
@@ -15,16 +25,6 @@
       "/news/2025-08-04-IPAJC/index.html",
       "/news/2025-05-22-stypendia/index.html",
       "/news/2025-05-16-init/index.html"
-    ]
-  },
-  {
-    "listing": "/people.html",
-    "items": [
-      "/people/staff/pater.html",
-      "/people/staff/beresewicz.html",
-      "/people/staff/galecka.html",
-      "/people/staff/cherniaiev.html",
-      "/people/students/struzik.html"
     ]
   }
 ]
