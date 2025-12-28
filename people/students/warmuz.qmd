@@ -1,0 +1,19 @@
+---
+title: "Michał Warmuz"
+sortby: "2"
+subtitle: "Student"
+image: warmuz.jpg
+started: "Fall 2025"
+toc: false
+about: 
+  id: person-profile
+  template: jolla
+---
+
+## Biography
+
+Michał Warmuz is a Master's degree student of mathematics at Faculty of Applied Mathemathics at AGH University of Krakow in specialisation of Insurance Mathemathics and Statistical Data Analysis. He is interested in both theoretical and applied mathemathics.
+
+During his studies he has won multiple prizes on international mathematics competitions and olympiads like gold medal and the best individual performance prize on 'International Student Team Competition in Mathematics 2025' or first prize on 'International Mathematics Competition for University Students 2025'.
+
+In the OJALAB project, he is responsible for figuring out new estimators, comparing their variance, and applying them in the estimation problems.
