@@ -2,30 +2,30 @@
   {
     "objectID": "publications/articles/2025-beresewicz-jos.html",
     "href": "publications/articles/2025-beresewicz-jos.html",
-    "title": "Multilingual hierarchical classification of job advertisements for job vacancy statistics",
+    "title": "Multilingual Hierarchical Classification of Job Advertisements for Job Vacancy Statistics",
     "section": "",
-    "text": "The goal of this paper is to develop a multilingual classifier and conditional probability estimator of occupation codes for online job advertisements according in accordance with the International Standard Classification of Occupations (ISCO) extended with the Polish Classification of Occupations and Specializations (KZiS), which is analogous to the European Classification of Occupations. In this paper, we utilise a range of data sources, including a novel one, namely the Central Job Offers Database, which is a register of all vacancies submitted to Public Employment Offices. Their staff members code the vacancies according to the ISCO and KZiS. A hierarchical multi-class classifier has been developed based on the transformer architecture. The classifier begins by encoding the jobs found in advertisements to the widest 1-digit occupational group, and then narrows the assignment to a 6-digit occupation code. We show that incorporation of the hierarchical structure of occupations improves prediction accuracy by 1-2 percentage points, particularly for the hand-coded online job advertisements. Finally, a bilingual (Polish and English) and multilingual (24 languages) model is developed based on data translated using closed and open-source software. The open-source software is provided for the benefit of the official statistics community, with a particular focus on international comparability."
+    "text": "The goal of this paper is to develop a multilingual classifier and conditional probability estimator of occupation codes for online job advertisements in accordance with the International Standard Classification of Occupations (ISCO) extended with the Polish Classification of Occupations and Specializations (KZiS), which is analogous to the European Classification of Occupations. In this paper, we utilize a range of data sources, including a novel one, namely the Central Job Offers Database, which is a register of all vacancies submitted to Public Employment Offices. Their staff members code the vacancies according to the ISCO and KZiS. A hierarchical multi-class classifier has been developed based on the transformer architecture. The classifier begins by encoding the jobs found in advertisements to the widest 1-digit occupational group, and then narrows the assignment to a 6-digit occupation code. We show that incorporation of the hierarchical structure of occupations improves prediction accuracy by 1 to 2 percentage points, particularly for the hand-coded online job advertisements. Finally, a bilingual (Polish and English) and multilingual (twenty-four languages) model is developed based on data translated using closed and open-source software. The open-source software is provided for the benefit of the official statistics community, with a particular focus on international comparability."
   },
   {
     "objectID": "publications/articles/2025-beresewicz-jos.html#abstract",
     "href": "publications/articles/2025-beresewicz-jos.html#abstract",
-    "title": "Multilingual hierarchical classification of job advertisements for job vacancy statistics",
+    "title": "Multilingual Hierarchical Classification of Job Advertisements for Job Vacancy Statistics",
     "section": "",
-    "text": "The goal of this paper is to develop a multilingual classifier and conditional probability estimator of occupation codes for online job advertisements according in accordance with the International Standard Classification of Occupations (ISCO) extended with the Polish Classification of Occupations and Specializations (KZiS), which is analogous to the European Classification of Occupations. In this paper, we utilise a range of data sources, including a novel one, namely the Central Job Offers Database, which is a register of all vacancies submitted to Public Employment Offices. Their staff members code the vacancies according to the ISCO and KZiS. A hierarchical multi-class classifier has been developed based on the transformer architecture. The classifier begins by encoding the jobs found in advertisements to the widest 1-digit occupational group, and then narrows the assignment to a 6-digit occupation code. We show that incorporation of the hierarchical structure of occupations improves prediction accuracy by 1-2 percentage points, particularly for the hand-coded online job advertisements. Finally, a bilingual (Polish and English) and multilingual (24 languages) model is developed based on data translated using closed and open-source software. The open-source software is provided for the benefit of the official statistics community, with a particular focus on international comparability."
+    "text": "The goal of this paper is to develop a multilingual classifier and conditional probability estimator of occupation codes for online job advertisements in accordance with the International Standard Classification of Occupations (ISCO) extended with the Polish Classification of Occupations and Specializations (KZiS), which is analogous to the European Classification of Occupations. In this paper, we utilize a range of data sources, including a novel one, namely the Central Job Offers Database, which is a register of all vacancies submitted to Public Employment Offices. Their staff members code the vacancies according to the ISCO and KZiS. A hierarchical multi-class classifier has been developed based on the transformer architecture. The classifier begins by encoding the jobs found in advertisements to the widest 1-digit occupational group, and then narrows the assignment to a 6-digit occupation code. We show that incorporation of the hierarchical structure of occupations improves prediction accuracy by 1 to 2 percentage points, particularly for the hand-coded online job advertisements. Finally, a bilingual (Polish and English) and multilingual (twenty-four languages) model is developed based on data translated using closed and open-source software. The open-source software is provided for the benefit of the official statistics community, with a particular focus on international comparability."
   },
   {
     "objectID": "publications/articles/2025-beresewicz-jos.html#citation",
     "href": "publications/articles/2025-beresewicz-jos.html#citation",
-    "title": "Multilingual hierarchical classification of job advertisements for job vacancy statistics",
+    "title": "Multilingual Hierarchical Classification of Job Advertisements for Job Vacancy Statistics",
     "section": "Citation",
-    "text": "Citation\n\nBeręsewicz, M., Wydmuch, M., Cherniaiev, H., & Pater, R. (2024). Multilingual hierarchical classification of job advertisements for job vacancy statistics. arXiv. https://arxiv.org/abs/2411.03779"
+    "text": "Citation\n\nBeręsewicz, M., Wydmuch, M., Cherniaiev, H., & Pater, R. (2025). Multilingual Hierarchical Classification of Job Advertisements for Job Vacancy Statistics. Journal of Official Statistics, 0(0). https://doi.org/10.1177/0282423X251395400"
   },
   {
     "objectID": "publications/articles/2025-beresewicz-jos.html#bibtex",
     "href": "publications/articles/2025-beresewicz-jos.html#bibtex",
-    "title": "Multilingual hierarchical classification of job advertisements for job vacancy statistics",
+    "title": "Multilingual Hierarchical Classification of Job Advertisements for Job Vacancy Statistics",
     "section": "BibTeX",
-    "text": "BibTeX\n@misc{beresewicz2024multi,\n      title={Multilingual hierarchical classification of job advertisements for job vacancy statistics}, \n      author={Maciej Beręsewicz and Marek Wydmuch and Herman Cherniaiev and Robert Pater},\n      year={2024},\n      eprint={2411.03779},\n      archivePrefix={arXiv},\n      primaryClass={stat.AP},\n      url={https://arxiv.org/abs/2411.03779}, \n}"
+    "text": "BibTeX\n@article{doi:10.1177/0282423X251395400,\nauthor = {Beręsewicz, Maciej and Wydmuch, Marek and Cherniaiev, Herman and Pater, Robert},\ntitle ={Multilingual Hierarchical Classification of Job Advertisements for Job Vacancy Statistics},\njournal = {Journal of Official Statistics},\nvolume = {0},\nnumber = {0},\npages = {0282423X251395400},\nyear = {0},\ndoi = {10.1177/0282423X251395400},\nURL = {https://doi.org/10.1177/0282423X251395400},\neprint = {https://doi.org/10.1177/0282423X251395400}\n}"
   },
   {
     "objectID": "people.html",
@@ -140,11 +140,11 @@
     "text": "So the web page of the project just went online."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "news/2025-08-04-IPAJC/index.html",
+    "href": "news/2025-08-04-IPAJC/index.html",
+    "title": "IPAJC Seminar",
     "section": "",
-    "text": "dr hab. Robert Pater, prof. WSIiZ  Department of Economics and Finance  University of Information Technology and Management in Rzeszow  35-225 Rzeszów, ul. Sucharskiego 2  tel. +48 17-86-61-134 | rpater[at]wsiz.edu.pl  https://www.wsiz.edu.pl/ \ndr Maciej Beręsewicz, prof. UEP  Department of Statistics  Poznań University of Economics and Business  al. Niepodległości 10 | 61-875 Poznań  tel. +48 61-854-36-80 | maciej.beresewicz[at]ue.poznan.pl  https://www.ue.poznan.pl  https://maciejberesewicz.com"
+    "text": "Maciej Beręsewicz and Robert Pater presented the paper “Multilingual hierarchical classification of job advertisements for job vacancy statistics” during online meeting of the International Partnership on Automatic Job Coding on August 1st, 2025.\nPresentation can be found here."
   },
   {
     "objectID": "index.html",
@@ -154,11 +154,18 @@
     "text": "This is the page for the project Online job advertisements to study skill demand and job search patterns financed by the National Science Centre, OPUS 27 grant no. 2024/53/B/HS4/01580.\n\n     \n\n\nEnglishPolish\n\n\nThis project aims to develop innovative statistical methods for accurately measuring labor demand by integrating survey data, online job advertisements, and administrative records to address non-representativeness bias in big data sources and provide unprecedented insights into skills demand, contract types, and evolving work arrangements. By leveraging data spanning the COVID-19 pandemic and Ukrainian migration, the research seeks to analyze structural changes in Poland’s labor market and deliver new methodological frameworks that will enhance official statistics and inform evidence-based labor market policies.\n\n\nProjekt ma na celu opracowanie innowacyjnych metod statystycznych do dokładnego pomiaru popytu na pracę poprzez integrację danych z badań reprezentacyjnych, internetowych ogłoszeń o pracę i rejestrów administracyjnych. Celem badań jest skorygowanie obciążeń wynikających z problemów niereprezentatywności występujących w dużych zbiorach danych oraz dostarczenie nowych informacji na temat popytu na umiejętności i zmieniających się form zatrudnienia. Analiza danych obejmujących okres pandemii COVID-19 i napływu uchodźców z Ukrainy ma na celu zbadanie zmian strukturalnych na polskim rynku pracy oraz opracowanie nowych ram metodologicznych, które wzmocnią statystykę oficjalną i dostarczą informacji dla polityk rynku pracy opartych na dowodach."
   },
   {
-    "objectID": "news/2025-08-04-IPAJC/index.html",
-    "href": "news/2025-08-04-IPAJC/index.html",
-    "title": "IPAJC Seminar",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "Maciej Beręsewicz and Robert Pater presented the paper “Multilingual hierarchical classification of job advertisements for job vacancy statistics” during online meeting of the International Partnership on Automatic Job Coding on August 1st, 2025.\nPresentation can be found here."
+    "text": "dr hab. Robert Pater, prof. WSIiZ  Department of Economics and Finance  University of Information Technology and Management in Rzeszow  35-225 Rzeszów, ul. Sucharskiego 2  tel. +48 17-86-61-134 | rpater[at]wsiz.edu.pl  https://www.wsiz.edu.pl/ \ndr Maciej Beręsewicz, prof. UEP  Department of Statistics  Poznań University of Economics and Business  al. Niepodległości 10 | 61-875 Poznań  tel. +48 61-854-36-80 | maciej.beresewicz[at]ue.poznan.pl  https://www.ue.poznan.pl  https://maciejberesewicz.com"
+  },
+  {
+    "objectID": "news/2025-12-28-jos/index.html",
+    "href": "news/2025-12-28-jos/index.html",
+    "title": "First paper published",
+    "section": "",
+    "text": "Our first paper was just published in the Journal of Official Statistics. The abstract of this paper is provided below and it can be found here.\nThe goal of this paper is to develop a multilingual classifier and conditional probability estimator of occupation codes for online job advertisements in accordance with the International Standard Classification of Occupations (ISCO) extended with the Polish Classification of Occupations and Specializations (KZiS), which is analogous to the European Classification of Occupations. In this paper, we utilize a range of data sources, including a novel one, namely the Central Job Offers Database, which is a register of all vacancies submitted to Public Employment Offices. Their staff members code the vacancies according to the ISCO and KZiS. A hierarchical multi-class classifier has been developed based on the transformer architecture. The classifier begins by encoding the jobs found in advertisements to the widest 1-digit occupational group, and then narrows the assignment to a 6-digit occupation code. We show that incorporation of the hierarchical structure of occupations improves prediction accuracy by 1 to 2 percentage points, particularly for the hand-coded online job advertisements. Finally, a bilingual (Polish and English) and multilingual (twenty-four languages) model is developed based on data translated using closed and open-source software. The open-source software is provided for the benefit of the official statistics community, with a particular focus on international comparability."
   },
   {
     "objectID": "news/2025-12-19-meeting/index.html",
@@ -179,7 +186,7 @@
     "href": "publications.html",
     "title": "OJALAB",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n      \n        Publication\n      \n      \n        Year\n      \n    \n  \n    \n      \n      \n    \n\n\n\n  \n    Estimating the number of entities with vacancies using administrative and online data\n    Beręsewicz, Cherniaiev and Pater\n    working paper\n    (2025)\n    \n      Details\n    \n    \n    \n    \n       Preprint\n    \n    \n    \n  \n\n  \n    Multilingual hierarchical classification of job advertisements for job vacancy statistics\n    Beręsewicz, Wydmuch, Cherniaiev and Pater\n    Submitted to Journal of Official Statistics\n    (2025)\n    \n      Details\n    \n    \n    \n    \n       Preprint\n    \n    \n    \n    \n       Materials\n    \n    \n  \n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Author\n      \n      \n        Publication\n      \n      \n        Year\n      \n    \n  \n    \n      \n      \n    \n\n\n\n  \n    Multilingual Hierarchical Classification of Job Advertisements for Job Vacancy Statistics\n    Beręsewicz, Wydmuch, Cherniaiev and Pater\n    Journal of Official Statistics\n    (2026)\n    \n      Details\n    \n    \n    \n    \n    \n       Materials\n    \n    \n  \n\n  \n    Estimating the number of entities with vacancies using administrative and online data\n    Beręsewicz, Cherniaiev and Pater\n    working paper\n    (2025)\n    \n      Details\n    \n    \n    \n    \n       Preprint\n    \n    \n    \n  \n\n\n\nNo matching items"
   },
   {
     "objectID": "opportunities.html",
@@ -242,7 +249,7 @@
     "href": "news.html",
     "title": "OJALAB",
     "section": "",
-    "text": "Spotkanie zespołu\n\n\n\nteam\n\n\n\nPierwsze spotkanie zespołu w Warszawie\n\n\n\n\n\nDec 19, 2025\n\n\nMaciej Beręsewicz\n\n\n\n\n\n\n\n\n\n\n\n\nStypendyści grantu\n\n\n\nstudents\n\n\n\nDo grantu dołączyli: Adam Struzik i Michał Warmuz\n\n\n\n\n\nNov 1, 2025\n\n\nMaciej Beręsewicz\n\n\n\n\n\n\n\n\n\n\n\n\nWyniki konkursu (stypendia)\n\n\n\ninfo\n\n\n\nWyniki konkursu na 2 stypendia naukowe\n\n\n\n\n\nOct 24, 2025\n\n\nMaciej Beręsewicz\n\n\n\n\n\n\n\n\n\n\n\n\nIPAJC Seminar\n\n\n\ninfo\n\n\n\nInternational Partnership on Automatic Job Coding\n\n\n\n\n\nAug 4, 2025\n\n\nMaciej Beręsewicz\n\n\n\n\n\n\n\n\n\n\n\n\nOferty stypendium w grancie\n\n\n\njobs\n\npolish\n\n\n\nOferta stypendium naukowego dla studentów i doktorantów\n\n\n\n\n\nMay 26, 2025\n\n\nMaciej Beręsewicz\n\n\n\n\n\n\n\n\n\n\n\n\nOJALAB website\n\n\n\ninfo\n\n\n\nKick-off of the project web page\n\n\n\n\n\nMay 16, 2025\n\n\nMaciej Beręsewicz\n\n\n\n\n\nNo matching items"
+    "text": "First paper published\n\n\n\npaper\n\n\n\nPublication in the Journal of Official Statistics\n\n\n\n\n\nDec 28, 2025\n\n\nMaciej Beręsewicz\n\n\n\n\n\n\n\n\n\n\n\n\nSpotkanie zespołu\n\n\n\nteam\n\n\n\nPierwsze spotkanie zespołu w Warszawie\n\n\n\n\n\nDec 19, 2025\n\n\nMaciej Beręsewicz\n\n\n\n\n\n\n\n\n\n\n\n\nStypendyści grantu\n\n\n\nstudents\n\n\n\nDo grantu dołączyli: Adam Struzik i Michał Warmuz\n\n\n\n\n\nNov 1, 2025\n\n\nMaciej Beręsewicz\n\n\n\n\n\n\n\n\n\n\n\n\nWyniki konkursu (stypendia)\n\n\n\ninfo\n\n\n\nWyniki konkursu na 2 stypendia naukowe\n\n\n\n\n\nOct 24, 2025\n\n\nMaciej Beręsewicz\n\n\n\n\n\n\n\n\n\n\n\n\nIPAJC Seminar\n\n\n\ninfo\n\n\n\nInternational Partnership on Automatic Job Coding\n\n\n\n\n\nAug 4, 2025\n\n\nMaciej Beręsewicz\n\n\n\n\n\n\n\n\n\n\n\n\nOferty stypendium w grancie\n\n\n\njobs\n\npolish\n\n\n\nOferta stypendium naukowego dla studentów i doktorantów\n\n\n\n\n\nMay 26, 2025\n\n\nMaciej Beręsewicz\n\n\n\n\n\n\n\n\n\n\n\n\nOJALAB website\n\n\n\ninfo\n\n\n\nKick-off of the project web page\n\n\n\n\n\nMay 16, 2025\n\n\nMaciej Beręsewicz\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications/articles/2025-parter.html",
