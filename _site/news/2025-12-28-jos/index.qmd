@@ -1,39 +1,18 @@
 ---
-title: "Multilingual Hierarchical Classification of Job Advertisements for Job Vacancy Statistics"
-type: "article"
-author: "Beręsewicz, Wydmuch, Cherniaiev and Pater"
-year: "2026"
-publication: "Journal of Official Statistics"
-link: "https://journals.sagepub.com/doi/10.1177/0282423X251395400"
-materials: "https://github.com/OJALAB/paper-job-ads-classifier"
-toc: false
+title: "First paper published"
+description: "Publication in the Journal of Official Statistics"
+author: "Maciej Beręsewicz"
+date: "2025-12-28"
+draft: false
+image: jos.png
 categories:
-  - article
+  - team
+format:
+  html:
+    page-layout: full
+    toc: false
 ---
 
-## Abstract
+Our first paper was just published in the Journal of Official Statistics. The abstract of this paper is provided below and it can be found [here](https://journals.sagepub.com/doi/10.1177/0282423X251395400).
 
 The goal of this paper is to develop a multilingual classifier and conditional probability estimator of occupation codes for online job advertisements in accordance with the International Standard Classification of Occupations (ISCO) extended with the Polish Classification of Occupations and Specializations (KZiS), which is analogous to the European Classification of Occupations. In this paper, we utilize a range of data sources, including a novel one, namely the Central Job Offers Database, which is a register of all vacancies submitted to Public Employment Offices. Their staff members code the vacancies according to the ISCO and KZiS. A hierarchical multi-class classifier has been developed based on the transformer architecture. The classifier begins by encoding the jobs found in advertisements to the widest 1-digit occupational group, and then narrows the assignment to a 6-digit occupation code. We show that incorporation of the hierarchical structure of occupations improves prediction accuracy by 1 to 2 percentage points, particularly for the hand-coded online job advertisements. Finally, a bilingual (Polish and English) and multilingual (twenty-four languages) model is developed based on data translated using closed and open-source software. The open-source software is provided for the benefit of the official statistics community, with a particular focus on international comparability.
-
-## Citation
-
-> Beręsewicz, M., Wydmuch, M., Cherniaiev, H., & Pater, R. (2025). 
-> Multilingual Hierarchical Classification of Job Advertisements for Job Vacancy Statistics. 
-> Journal of Official Statistics, 0(0). https://doi.org/10.1177/0282423X251395400
-
-## BibTeX
-
-``` tex
-@article{doi:10.1177/0282423X251395400,
-author = {Beręsewicz, Maciej and Wydmuch, Marek and Cherniaiev, Herman and Pater, Robert},
-title ={Multilingual Hierarchical Classification of Job Advertisements for Job Vacancy Statistics},
-journal = {Journal of Official Statistics},
-volume = {0},
-number = {0},
-pages = {0282423X251395400},
-year = {0},
-doi = {10.1177/0282423X251395400},
-URL = {https://doi.org/10.1177/0282423X251395400},
-eprint = {https://doi.org/10.1177/0282423X251395400}
-}
-```
