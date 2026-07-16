@@ -10,21 +10,26 @@ about:
   template: jolla
   links: 
     - icon: github
-      text: github
+      text: GitHub
       href: https://github.com/ASuGuit
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/asuguit/
 ---
 
 ## Biography
 
-Adam Struzik is a Master's degree student in Data Analysis and Data Processing at Adam Mickiewicz University (Poznań, Poland). His interests focus on entity resolution, machine learning, and spatial data analysis.
+Adam Struzik is a Master's degree student in Data Analysis and Data Processing at Adam Mickiewicz University in Poznań, Poland. His interests focus on entity resolution, population size estimation, machine learning, and spatial data analysis.
 
-He is employed as a Specialist at the Centre for Urban Statistics of the Statistical Office in Poznań, where he has been working on the project *Geospatial statistics -- step by step in methodology and in practice*, 101156254-2023-PL-GEOS-STEP, which is supported by a Eurostat grant.
+He holds the position of Specialist at the Centre for Urban Statistics of the Statistical Office in Poznań, where he has been working on several projects supported by Eurostat grants. He is also employed as a contractor on the research project *Towards census-like statistics for foreign-born populations -- quality, data integration and estimation*, funded by the National Science Centre, OPUS 20 grant no. 2020/39/B/HS4/00941.
 
-He is also employed as a contractor in the research project *Towards census-like statistics for foreign-born populations -- quality, data integration and estimation*, funded by the National Science Centre, OPUS 20 grant no. 2020/39/B/HS4/00941.
+Adam Struzik regularly presents the results of his work at scientific conferences and seminars, and has authored several papers in statistics. Additionally, he contributes to open-source software by developing R packages for entity resolution. He serves as the maintainer of [`automatedRecLin`](https://cran.r-project.org/package=automatedRecLin) and is one of the authors of [`blocking`](https://cran.r-project.org/package=blocking).
 
-In the OJALAB project, he is responsible for proposing a new approach to estimate the number of vacancies based solely on online and administrative data, using capture-recapture and latent class analysis methods.
+In January 2026, his paper *Capturing Small Discrepancies in Record Linkage: A Maximum Entropy Framework with Continuous Similarity Measures*  won an award in the Student Paper Competition organised by the American Statistical Association. In May 2026, Adam Struzik won the Polish *Student Nobel Prize* competition. He was selected as the best student in the Economic Sciences category.
+
+In the OJALAB project, he is responsible for proposing a new approach for estimating the number of vacancies based solely on online and administrative data, using capture-recapture and latent class analysis methods.
 
 ## Education
 
 -   2025–Present: Adam Mickiewicz University, Poznań, Poland: Master's degree student in Data Analysis and Data Processing.  
--   2022–2025: Adam Mickiewicz University, Poznań, Poland: Bachelor's degree in Mathematics, specialization: Statistics and Data Analysis.    
+-   2022–2025: Adam Mickiewicz University, Poznań, Poland: Bachelor's degree in Mathematics, specialisation: Statistics and Data Analysis.    
