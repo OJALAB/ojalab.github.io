@@ -1,0 +1,25 @@
+---
+title: "Borys Waszkowski"
+sortby: "3"
+subtitle: "Student"
+image: waszkowski.jpg
+started: "Summer 2026"
+toc: false
+about: 
+  id: person-profile
+  template: jolla
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/borys-waszkowski/
+---
+## Biography
+
+Borys Waszkowski is a Master's degree student in Informatics and Econometrics at Poznań University of Economics and Business, specialising in Business Analytics. He is interested in data analysis, econometrics and machine learning.
+
+In the OJALAB project, he developed the procedure for updating the job advertisement classifier to the current versions of the Polish occupational classifications KZiS and KZSB, covering all changes from the hierarchy to the training and test datasets. He also identified, evaluated and adopted newer encoders, pl-ModernBERT and mmBERT, and proposed a procedure for generating verified synthetic training data for occupations with few examples. Beyond classification, he is developing an LLM-based pipeline that extracts skills, requirements and responsibilities from Polish civil service job advertisements (KPRM), mapping the extracted skills to the ESCO taxonomy.
+
+## Education
+
+-   2025–Present: Poznań University of Economics and Business, Poznań, Poland: Master's degree student in Informatics and Econometrics, specialisation: Business Analytics.
+-   2022–2025: University of Gdańsk, Faculty of Mathematics, Physics and Informatics, Gdańsk, Poland: Bachelor's degree in Mathematics.
