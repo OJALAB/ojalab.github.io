@@ -1,0 +1,42 @@
+---
+title: "KZiS classifier updated for 2026"
+description: "Ten new models trained on the updated KZiS occupation classification"
+author: "Borys Waszkowski"
+date: "2026-10-01"
+draft: false
+categories:
+  - models
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+We have updated our job advertisement classifier to the current version of the Polish Classification of Occupations and Specializations (KZiS), as of 14 July 2026, including the vocational occupations introduced on 1 September 2026.
+
+The update added 52 new six-digit occupation codes, applied two recodings and one removal, and brought the hierarchy to 2,955 occupations. New training records were built from occupation descriptions published on the PSZ portal and from vocational core curricula. The final training set contains 143,743 records in both Polish and English.
+
+We trained ten models: linear baselines and transformers based on four encoders. HerBERT and pl-ModernBERT were trained on Polish data, and XLM-RoBERTa and mmBERT on bilingual Polish–English data. Each configuration has a bottom-up (BU) and a top-down (TD) variant. pl-ModernBERT and mmBERT are new to the classifier and were not used in its earlier versions. Borys Waszkowski identified them as recent encoder models compatible with the classifier's architecture and added them to the training pipeline. All models were evaluated on a test set of 57,506 records. They replace the 2024 models in the [RepOD archive](https://doi.org/10.18150/OCUTSI), where all pretrained classifiers are published.
+
+| Model            | Training data    | 1-digit | 4-digit (ISCO) | 6-digit (KZiS) | 6-digit, English test set |
+|------------------|------------------|--------:|---------------:|---------------:|-----------------:|
+| Linear BU        | Polish           | 85.2    | 76.0           | 68.0           | –                |
+| Linear TD        | Polish           | 84.0    | 74.7           | 66.7           | –                |
+| HerBERT BU       | Polish           | 88.0    | 80.1           | 71.8           | –                |
+| HerBERT TD       | Polish           | 88.3    | 80.3           | 72.0           | –                |
+| pl-ModernBERT BU | Polish           | 87.8    | 79.7           | 71.8           | –                |
+| pl-ModernBERT TD | Polish           | 87.9    | 79.8           | 72.1           | –                |
+| XLM-RoBERTa BU   | Polish + English | 88.0    | 80.1           | 72.2           | 71.2             |
+| XLM-RoBERTa TD   | Polish + English | 88.0    | 80.0           | 72.0           | 70.9             |
+| mmBERT BU        | Polish + English | 88.4    | 80.5           | 72.5           | 71.6             |
+| mmBERT TD        | Polish + English | 88.1    | 79.8           | 72.2           | 71.2             |
+
+: Accuracy (%) by level of the occupational hierarchy
+
+Main findings:
+
+- **The new encoders match the established ones.** pl-ModernBERT and mmBERT reach the same accuracy range as HerBERT and XLM-RoBERTa: 71.8–72.5% at the six-digit level. The differences between transformer models are within a few tenths of a point, too small to single out the best encoder.
+- **Bilingual training comes at no cost for Polish.** Models trained on Polish and English data perform as well on the Polish test set as models trained on Polish only, and are about 1 percentage point less accurate on the English test set.
+- **No consistent advantage of either strategy.** Bottom-up and top-down variants differ by a few tenths of a point overall, in both directions. A clear gain from top-down appears only on ESCO occupation descriptions, for HerBERT (+8.8 points) and pl-ModernBERT (+4.3 points).
+
+The test set contains almost no examples of the newly added occupations, so the results describe the classification of occupations that existed before the update. We are now preparing a reference set of job advertisements for the new codes and testing synthetic training data for occupations with few examples.
